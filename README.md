@@ -1,4 +1,4 @@
-# Ejercicio1Maven
+# Ejercicio 1º Maven
 ## Proyecto Java
 Crea un proyecto Maven en Eclipse llamado Cadena. Implementa una clase llamada
 Cadena que tenga los siguientes métodos:
